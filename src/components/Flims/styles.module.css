@@ -1,0 +1,18 @@
+.flimcontainer {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 10px;
+}
+
+.card {
+  background-color: #fff;
+  padding: 5px;
+  cursor: pointer;
+}
+
+.lable {
+  color: #8c8787;
+}
+.text {
+  font-weight: 550;
+}

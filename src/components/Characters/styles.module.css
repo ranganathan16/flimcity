@@ -1,0 +1,33 @@
+.gridcontainer {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 10px;
+}
+
+.card {
+  background-color: #fff;
+  padding: 5px;
+  cursor: pointer;
+}
+.list {
+  background-color: #fff;
+  border: none;
+  margin-bottom: 30px;
+}
+.lable {
+  color: #8c8787;
+}
+.text {
+  font-weight: 550;
+}
+.rect {
+  width: 10px;
+  height: 10px;
+  display: inline-grid;
+  border-radius: 5px;
+  border: 1px solid black;
+}
+
+.flimcontainer {
+  margin-top: 20px;
+}

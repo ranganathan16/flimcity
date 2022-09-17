@@ -1,0 +1,29 @@
+body {
+  background-color: #f1f1f1 !important;
+}
+
+.container {
+  max-width: 1350px;
+  margin: 10px auto;
+  min-height: calc(100vh - 120px);
+}
+
+.header {
+  background-color: azure;
+  padding: 10px 0;
+  text-align: center;
+}
+.title {
+  margin: 0px;
+  font-weight: bolder;
+  color: crimson;
+}
+
+.footer {
+  width: 100%;
+
+  background-color: azure;
+  color: crimson;
+  text-align: center;
+  padding: 10px;
+}
